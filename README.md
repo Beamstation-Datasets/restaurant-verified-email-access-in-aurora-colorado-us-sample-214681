@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Aurora, Colorado, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `214681` |
 | Location | Aurora |
 | Category | Restaurants |
-| Full dataset size | 214 records |
-| Free sample size | 21 records (9.81%) |
-| Last export | 2026-04-14T23:02:27.356985+00:00 |
+| Full dataset size | 169 records |
+| Free sample size | 16 records (9.47%) |
+| Last export | 2026-04-22T02:16:34.174208+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-aurora-colorado-us-sample-214681/releases/download/sample-latest/beamstation_214681_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
