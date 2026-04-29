@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bf1aa02c-b62c-4ab5-b05a-8798d26fa56a",
+  "export_job_id": "35866603-1656-4506-b2ad-6a5b698d1e28",
   "id_short": 214681,
-  "published_at": "2026-04-22T07:13:23Z",
+  "published_at": "2026-04-29T07:26:20Z",
   "repo_name": "restaurant-verified-email-access-in-aurora-colorado-us-sample-214681",
   "sample_asset_name": "beamstation_214681_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/214681/beamstation_214681_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "49a189e8985caad0a435254c7f534a3219d29cd50632fdfb793d570607837155",
-  "sample_size_bytes": 88366,
-  "total_records": 169
+  "sample_records": 21,
+  "sample_sha256": "70b15c083051b1d6d028b81a669b4722ccfdffbaf5fd68b94c1bea867166eeb6",
+  "sample_size_bytes": 96878,
+  "total_records": 213
 }
